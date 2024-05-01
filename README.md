@@ -19,7 +19,7 @@ A Multi-Threaded Python Port Scanner.
 `-h | --help` - Displays help screen
 
 
-#### Additional Features
+### Additional Features
 
 - Program is able scan the top ports under a specific IP in the event no port is specified and `-a` switch (Scan all) has not been used.
 
