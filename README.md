@@ -23,6 +23,10 @@ A Multi-Threaded Python Port Scanner.
 
 - Program is able scan the top ports under a specific IP in the event no port is specified and `-a` switch (Scan all) has not been used.
 
+### Libraries
+
+All necessary libraries can be installed using the command: `pip install -r requirements.txt`
+
 #### To be added / Coming soon
 
 - Functionality to allow program to not only determine a port's state, but also to determine the service running on said port.
